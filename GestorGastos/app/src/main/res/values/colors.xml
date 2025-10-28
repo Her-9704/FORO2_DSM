@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="celeste">#1976d2</color>
+    <color name="verde">#8bc34a</color>
+    <color name="wacamoleOscuro">#388E3C</color>
+    <color name="nachoquemado">#996515</color>
+    <color name="rojobasica">#D32F2F</color>
+    <color name="pasion">#F44336</color>
+    <color name="cereza">#A7001A</color>
+    <color name="rojocoagulo">#C1470711</color>
+    <color name="regla">#960118</color>
+</resources>

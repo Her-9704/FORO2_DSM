@@ -1,0 +1,10 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="hint_input">Email</string>
+    <string name="hint_input2">Contraseña</string>
+    <string name="TituloR">Registrate</string>
+    <string name="TituloL">Login</string>
+    <string name="reg">Registrate</string>
+    <string name="sec">Seleccionar</string>
+    <string name="inic">Inicia sesión aquí</string>
+</resources>

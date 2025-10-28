@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459106948921",
+    "project_id": "gerstornotas",
+    "storage_bucket": "gerstornotas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459106948921:android:6796524a997d25813ffae8",
+        "android_client_info": {
+          "package_name": "www.edu.udb.sv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTA4X98kIgt-FT7y9PVEIrP-y1Qgqbt2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
